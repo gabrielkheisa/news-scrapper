@@ -5,6 +5,8 @@
   <li>Python 3.7</li>
   <li>Selenium (Chromium)</li>
 </ul>
+<h2>Application in web page:</h2>
+<h3>https://news.gabrielkheisa.xyz/</h3>
 <h2>Example:</h2>
 <ul>
     <li>https://api.gabrielkheisa.xyz/news/antaranews/</li>
