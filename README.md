@@ -1,5 +1,5 @@
 <h1>Automated News Scrapper</h1>
-<h3>Returns in form of JSON<h3>
+<h3>Returns in form of JSON</h3>
 <h2>Requirements:</h2>
 <ul>
   <li>Python 3.7</li>
@@ -153,4 +153,48 @@
   ]
 }
     </pre>
+    <li>https://api.gabrielkheisa.xyz/news/steam/</li>
+    <pre>
+    {
+  "server_update": "08-11-2022 23:07:24",
+   "games": [
+    {
+      "nama": "New World",
+       "harga_asli": "Rp 249 999",
+       "harga_diskon": "Rp 124 999",
+       "persen": "-50%",
+       "url": "https://store.steampowered.com/app/1063730?snr=1_2300_4__salesmartpopularpurchased"
+    },
+     {
+      "nama": "Warhammer: Vermintide 2",
+       "harga_asli": "Rp 189 999",
+       "harga_diskon": "Rp 37 999",
+       "persen": "-80%",
+       "url": "https://store.steampowered.com/app/552500?snr=1_2300_4__salesmartpopularpurchased"
+    },
+     {
+      "nama": "Deep Rock Galactic",
+       "harga_asli": "Rp 139 999",
+       "harga_diskon": "Rp 46 199",
+       "persen": "-67%",
+       "url": "https://store.steampowered.com/app/548430?snr=1_2300_4__salesmartpopularpurchased"
+    },
+     {
+      "nama": "Dead Cells",
+       "harga_asli": "Rp 149 999",
+       "harga_diskon": "Rp 89 999",
+       "persen": "-40%",
+       "url": "https://store.steampowered.com/app/588650?snr=1_2300_4__salesmartpopularpurchased"
+    },
+     {
+      "nama": "Slay the Spire",
+       "harga_asli": "Rp 119 999",
+       "harga_diskon": "Rp 40 799",
+       "persen": "-66%",
+       "url": "https://store.steampowered.com/app/646570?snr=1_2300_4__salesmartpopularpurchased"
+    }
+  ]
+}
+    </pre>
+    
 </ul>
