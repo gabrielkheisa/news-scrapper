@@ -1,5 +1,10 @@
 <h1>Automated News Scrapper</h1>
 <h3>Returns in form of JSON<h3>
+<h2>Requirements:</h2>
+<ul>
+  <li>Python 3.7</li>
+  <li>Selenium (Chromium)</li>
+</ul>
 <h2>Example:</h2>
 <ul>
     <li>https://api.gabrielkheisa.xyz/news/antaranews/</li>
