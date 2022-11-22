@@ -196,5 +196,37 @@
   ]
 }
     </pre>
+    <li>https://api.gabrielkheisa.xyz/news/epicgames/</li>
+    <pre>
+    {
+  "server_update": "22-11-2022 12:47:42",
+   "games": [
+    {
+      "nama": "Epic Cheerleader Pack",
+       "gambar": "https://cdn1.epicgames.com/offer/0bef9383794a4d779ba0628084b14cba/EGS_RumbleverseEpicCheerleaderPack_IronGalaxyStudios_AddOn_S2_1200x1600-1b938d2b69fc2e58c5abe1c4b1c9508c?h=854&resize=1&w=640",
+       "status": "Free Now",
+       "url": "https://store.epicgames.com/en-US/p/rumbleverse--epic-cheerleader-pack"
+    },
+     {
+      "nama": "Dark Deity",
+       "gambar": "https://cdn1.epicgames.com/spt-assets/1d1ceda7b1ba4e7893a36a1166ac3e41/download-dark-deity-offer-1p2y4.jpg?h=854&resize=1&w=640",
+       "status": "Free Now",
+       "url": "https://store.epicgames.com/en-US/p/dark-deity-0b08d1"
+    },
+     {
+      "nama": "Evil Dead: The Game",
+       "gambar": "https://cdn1.epicgames.com/offer/95e09a8c24c44684bca1a6f25aea920c/EGS_EvilDeadTheGame_SaberInteractiveInc_S2_1200x1600-8e839d708bc638cd58c219ae38d58f6f_1200x1600-8e839d708bc638cd58c219ae38d58f6f?h=854&resize=1&w=640",
+       "status": "Free Now",
+       "url": "https://store.epicgames.com/en-US/p/evil-dead-the-game"
+    },
+     {
+      "nama": "STAR WARS\u2122: Squadrons",
+       "gambar": "https://cdn1.epicgames.com/bc2b0372eaa448469cb9a769f27acea1/offer/tall-1200x1600-6a837e2b6a5b216a2d994b4ad6661a33.jpg?h=854&resize=1&w=640",
+       "status": "Coming Soon",
+       "url": "https://store.epicgames.com/en-US/p/star-wars-squadrons"
+    }
+  ]
+}
+    </pre>
     
 </ul>
